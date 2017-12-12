@@ -1,0 +1,15 @@
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\plugin.json
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\logo.png
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Configure.cshtml
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Create.cshtml
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Edit.cshtml
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_CreateOrUpdate.cshtml
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_ViewImports.cshtml
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.pdb
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\net461\Nop.Plugin.Pickup.PickupInStore.csprojResolveAssemblyReference.cache
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\net461\Nop.Plugin.Pickup.PickupInStore.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\net461\Nop.Plugin.Pickup.PickupInStore.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\net461\Nop.Plugin.Pickup.PickupInStore.AssemblyInfo.cs
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\net461\Nop.Plugin.Pickup.PickupInStore.dll
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\net461\Nop.Plugin.Pickup.PickupInStore.pdb

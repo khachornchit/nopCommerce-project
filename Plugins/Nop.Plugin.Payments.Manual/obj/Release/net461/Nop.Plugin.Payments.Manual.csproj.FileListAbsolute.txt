@@ -1,0 +1,13 @@
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Manual\plugin.json
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Views\Configure.cshtml
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentInfo.cshtml
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Views\_ViewImports.cshtml
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Release\net461\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Release\net461\Nop.Plugin.Payments.Manual.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Release\net461\Nop.Plugin.Payments.Manual.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Release\net461\Nop.Plugin.Payments.Manual.AssemblyInfo.cs
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Release\net461\Nop.Plugin.Payments.Manual.dll
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Release\net461\Nop.Plugin.Payments.Manual.pdb

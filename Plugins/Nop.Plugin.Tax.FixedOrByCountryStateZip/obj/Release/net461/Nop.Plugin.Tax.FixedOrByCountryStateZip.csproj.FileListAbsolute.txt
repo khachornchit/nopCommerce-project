@@ -1,0 +1,14 @@
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\plugin.json
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\Configure.cshtml
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_CountryStateZip.cshtml
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_FixedRate.cshtml
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_ViewImports.cshtml
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\logo.jpg
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Release\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.csprojResolveAssemblyReference.cache
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Release\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Release\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Release\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.AssemblyInfo.cs
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Release\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Release\net461\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb

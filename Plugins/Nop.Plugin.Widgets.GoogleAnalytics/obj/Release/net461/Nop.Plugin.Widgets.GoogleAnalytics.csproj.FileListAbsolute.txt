@@ -1,0 +1,13 @@
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\plugin.json
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\Configure.cshtml
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\PublicInfo.cshtml
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\_ViewImports.cshtml
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Release\net461\Nop.Plugin.Widgets.GoogleAnalytics.csprojResolveAssemblyReference.cache
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Release\net461\Nop.Plugin.Widgets.GoogleAnalytics.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Release\net461\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Release\net461\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfo.cs
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Release\net461\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\OneDrive\Projects\nopCommerce\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Release\net461\Nop.Plugin.Widgets.GoogleAnalytics.pdb
