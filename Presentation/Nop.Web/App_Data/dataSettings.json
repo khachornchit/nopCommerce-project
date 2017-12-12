@@ -1,0 +1,5 @@
+{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=PLUTOSOLUTIONS\\SQLEXPRESS;Initial Catalog=nopCommerce;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=1234",
+  "RawDataSettings": {}
+}
